@@ -1,5 +1,6 @@
-# O'Reilly Book
 # Practical Automated Machine Learning on Azure 
+
+O'Reilly Book by Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok
 
 Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply automated machine learning (AutoML), a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.
 
